@@ -1,0 +1,222 @@
+{
+    "stations": {
+        "苹果园": {
+            "name": "苹果园",
+            "default_start": true
+        },
+        "古城": {
+            "name": "古城"
+        },
+        "八角游乐园": {
+            "name": "八角游乐园"
+        },
+        "八宝山": {
+            "name": "八宝山"
+        },
+        "玉泉路": {
+            "name": "玉泉路"
+        },
+        "五棵松": {
+            "name": "五棵松"
+        },
+        "万寿路": {
+            "name": "万寿路"
+        },
+        "公主坟": {
+            "name": "公主坟"
+        },
+        "军事博物馆": {
+            "name": "军事博物馆"
+        },
+        "木樨地": {
+            "name": "木樨地"
+        },
+        "南礼士路": {
+            "name": "南礼士路"
+        },
+        "复兴门": {
+            "name": "复兴门"
+        },
+        "西单": {
+            "name": "西单"
+        },
+        "天安门西": {
+            "name": "天安门西"
+        },
+        "天安门东": {
+            "name": "天安门东"
+        },
+        "王府井": {
+            "name": "王府井"
+        },
+        "东单": {
+            "name": "东单"
+        },
+        "建国门": {
+            "name": "建国门"
+        },
+        "永安里": {
+            "name": "永安里"
+        },
+        "国贸": {
+            "name": "国贸"
+        },
+        "大望路": {
+            "name": "大望路"
+        },
+        "四惠": {
+            "name": "四惠"
+        },
+        "四惠东": {
+            "name": "四惠东"
+        },
+        "西直门": {
+            "name": "西直门",
+            "default_start": true
+        },
+        "积水潭": {
+            "name": "积水潭"
+        },
+        "鼓楼大街": {
+            "name": "鼓楼大街"
+        },
+        "安定门": {
+            "name": "安定门"
+        },
+        "雍和宫": {
+            "name": "雍和宫"
+        },
+        "东直门": {
+            "name": "东直门"
+        },
+        "东四十条": {
+            "name": "东四十条"
+        },
+        "朝阳门": {
+            "name": "朝阳门"
+        },
+        "北京站": {
+            "name": "北京站"
+        },
+        "崇文门": {
+            "name": "崇文门"
+        },
+        "前门": {
+            "name": "前门"
+        },
+        "和平门": {
+            "name": "和平门"
+        },
+        "宣武门": {
+            "name": "宣武门"
+        },
+        "长椿街": {
+            "name": "长椿街"
+        },
+        "阜成门": {
+            "name": "阜成门"
+        },
+        "车公庄": {
+            "name": "车公庄"
+        }
+    },
+    "lines": [
+        {
+            "name": "1号线",
+            "stations": [
+                {
+                    "name": "苹果园",
+                    "distance_to_next": 1.2
+                },
+                {
+                    "name": "古城",
+                    "distance_to_next": 1.5
+                },
+                {
+                    "name": "八角游乐园",
+                    "distance_to_next": 1.3
+                },
+                {
+                    "name": "八宝山",
+                    "distance_to_next": 1.0
+                },
+                {
+                    "name": "玉泉路",
+                    "distance_to_next": 0.8
+                },
+                {
+                    "name": "五棵松",
+                    "distance_to_next": 0.9
+                },
+                {
+                    "name": "万寿路",
+                    "distance_to_next": 0.7
+                },
+                {
+                    "name": "公主坟",
+                    "distance_to_next": 1.0
+                },
+                {
+                    "name": "军事博物馆",
+                    "distance_to_next": 0.9
+                },
+                {
+                    "name": "木樨地",
+                    "distance_to_next": 1.1
+                },
+                {
+                    "name": "南礼士路",
+                    "distance_to_next": 0.8
+                },
+                {
+                    "name": "复兴门",
+                    "distance_to_next": 0.9
+                },
+                {
+                    "name": "西单",
+                    "distance_to_next": 0.6
+                },
+                {
+                    "name": "天安门西",
+                    "distance_to_next": 0.8
+                },
+                {
+                    "name": "天安门东",
+                    "distance_to_next": 0.6
+                },
+                {
+                    "name": "王府井",
+                    "distance_to_next": 0.7
+                },
+                {
+                    "name": "东单",
+                    "distance_to_next": 0.8
+                },
+                {
+                    "name": "建国门",
+                    "distance_to_next": 0.7
+                },
+                {
+                    "name": "永安里",
+                    "distance_to_next": 0.8
+                },
+                {
+                    "name": "国贸",
+                    "distance_to_next": 0.7
+                },
+                {
+                    "name": "大望路",
+                    "distance_to_next": 0.9
+                },
+                {
+                    "name": "四惠",
+                    "distance_to_next": 1.2
+                },
+                {
+                    "name": "四惠东",
+                    "distance_to_next": 1.3
+                }
+            ]
+        }
+    ]   
+}
